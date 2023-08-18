@@ -1,15 +1,15 @@
 # Hardware
 
-### 1 æ–‡ä»¶ç»“æž„è¯´æ˜Ž
+### 1 ÎÄ¼þ½á¹¹ËµÃ÷
 ./
 
-â”œâ”€â”€ PLAN.md
+©À©¤©¤PLAN.md
 
-â”œâ”€â”€ PROGRESS.md
+©À©¤©¤ PROGRESS.md
 
-â””â”€â”€ README.md
+©¸©¤©¤ README.md
 
 - PLAN.md
-  åˆ—å†™åˆ†å·¥è®¡åˆ’
+  ÁÐÐ´·Ö¹¤¼Æ»®
 - PROGRESS.md
-  åˆ—å†™æ¯æ—¥å®Œæˆå†…å®¹
+  ÁÐÐ´Ã¿ÈÕÍê³ÉÄÚÈÝ
